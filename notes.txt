@@ -1,0 +1,12 @@
+Import the following Libraries:
+numpy, pandas, sklearn and Flask
+Flask is used for backend
+The frontend I have used html and css
+the dataset is amazon.csv
+change the directory of the dataset to the one in your machine.
+
+the model uses RandomForestRegression model
+
+train.py: to train the model
+index.html: the frontend
+main.py: is the backend using Flask
